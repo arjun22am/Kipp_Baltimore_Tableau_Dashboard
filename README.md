@@ -31,8 +31,11 @@ Supports classroom teachers in identifying student-level needs and progress.
 📁 **Project Structure**
 
 **Dibels_Dashboard_Images**: Contains screenshots of each Tableau dashboard.
+
 **Dibels_Dashboard_Logic.docx** : Technical documentation of filters, color logic, calculations.
+
 **Dibels_Dashboard_Description_and_Insights.docx** : Non-technical dashboard descriptions & insights.
+
 **Dibels_Dashboard**: Contains The Tableau file.
 
 ✅ **How to Use**
